@@ -1,0 +1,7 @@
+Z:\Щарпы\DZ10\DZ_12_Tumakov\bin\Debug\DZ_12_Tumakov.exe.config
+Z:\Щарпы\DZ10\DZ_12_Tumakov\bin\Debug\DZ_12_Tumakov.exe
+Z:\Щарпы\DZ10\DZ_12_Tumakov\bin\Debug\DZ_12_Tumakov.pdb
+Z:\Щарпы\DZ10\DZ_12_Tumakov\obj\Debug\DZ_12_Tumakov.csproj.AssemblyReference.cache
+Z:\Щарпы\DZ10\DZ_12_Tumakov\obj\Debug\DZ_12_Tumakov.csproj.CoreCompileInputs.cache
+Z:\Щарпы\DZ10\DZ_12_Tumakov\obj\Debug\DZ_12_Tumakov.exe
+Z:\Щарпы\DZ10\DZ_12_Tumakov\obj\Debug\DZ_12_Tumakov.pdb
